@@ -1,6 +1,6 @@
 function SignUp() {
     return (<>
-    <div className="h-screen">
+    <div className="h-screen flex items-center justify-center">
         <div className="bg-violet-400 h-1/2 w-1/2 rounded-lg flex flex-col items-center justify-between">
             <div className="text-5xl font-bold">Sign Up</div>
             <div className="text-3xl">
